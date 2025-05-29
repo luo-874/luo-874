@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-    <h1>罗文杰</h1>
-    <img src="C:\Users\21816\Desktop\我的网页\照片\我的照片.jpg" alt="我的照片">
--->
