@@ -20,20 +20,6 @@ Here are some ideas to get you started:
     <meta charset="utf-8">
     <title>我的个人网页</title>
     <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        img {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%; /* 照片变圆形，可选 */
-            margin: 20px 0;
-        }
-        h1 {
-            color: #333;
-        }
     </style>
 </head>
 <body>
